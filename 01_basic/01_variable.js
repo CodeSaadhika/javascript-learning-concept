@@ -3,7 +3,8 @@ let accountEmail ="example123@gmail.com"
 var accountPassword = "12345"
 accountCity = "Uttar pradesh"
 
-// accountId =2 // not allowed
+// accountId =2 // not allowed 
+// Const value cannot be changed 
 
 accountEmail ="pm@gmail.com"
 accountPassword ="1234567"
