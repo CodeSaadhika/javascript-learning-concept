@@ -1,5 +1,5 @@
 // conversion operation
-let score = "80"
+let score = 80
 
 //console.log(typeof score);
 
